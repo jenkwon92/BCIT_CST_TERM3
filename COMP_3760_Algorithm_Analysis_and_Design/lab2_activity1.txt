@@ -1,0 +1,12 @@
+Algorithm CountPythagoreanTriplets()
+    count = 0
+    for a from 1 to 99 do
+        for b from a to 99 do
+            c = sqrt(a^2 + b^2)
+            if c is an integer and c <= 100 then
+                count++
+            endif
+        endfor
+    endfor
+    return count
+END
