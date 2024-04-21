@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lab7YongeunKwon</string>
+
+    <string-array name="cartoons">
+    <item>Ahsoka</item>
+    <item>Bb8</item>
+    <item>C3po</item>
+    <item>Chewbacca</item>
+    <item>Grogu</item>
+    <item>Jabba</item>
+    <item>Kilo</item>
+    <item>Trooper</item>
+    <item>Yoda</item>
+    </string-array>
+</resources>
